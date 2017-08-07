@@ -1,0 +1,40 @@
+<style>body{
+  background-color:#00FFFF;
+}
+#C2{
+ background-color:white;
+ color:#00FFFF;
+ margin-left: 340px;
+ height:auto;
+ width:100px;
+ margin-top:120px;
+}
+#BT1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    font-size:12px;
+    overflow:hidden;
+    float:right;
+    margin-left:10px;
+}
+.fa:hover{
+  opacity: 0.7;
+  
+}
+.fa-twitter {
+   background: #00FFFF;
+   color: white;
+}
+#authorShift{
+  text-align:center;
+  
+}
+#tW2{
+  overflow:hidden;
+  float:left;
+  
+  
+  
+}
+</style>
